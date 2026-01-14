@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<title>Condomínio Terraço - Assembleia</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<style>
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background: #f2f2f2;
+  color: #222;
+}
+
+.container {
+  max-width: 720px;
+  margin: auto;
+  padding: 16px;
+}
+
+.main-title {
+  text-align: center;
+  font-size: 54px;
+  font-weight: bold;
+  color: #c62828;
+  margin: 16px 0 24px 0;
+}
+
+.card {
+  background: #ffffff;
+  border-radius: 10px;
+  padding: 18px;
+  margin-bottom: 16px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+}
+
+h1 {
+  color: #c62828;
+  font-size: 26px;
+  margin-top: 0;
+}
+
+h2 {
+  color: #c62828;
+  font-size: 20px;
+}
+
+.highlight {
+  background: #fff3cd;
+  border-left: 6px solid #ffc107;
+  padding: 12px;
+  border-radius: 6px;
+  margin: 12px 0;
+}
+
+img {
+  width: 100%;
+  max-width: 420px;
+  display: block;
+  margin: 12px auto;
+  border-radius: 8px;
+}
+
+.step {
+  font-weight: bold;
+  margin-top: 16px;
+}
+
+.footer {
+  text-align: center;
+  font-size: 14px;
+  color: #666;
+  margin-top: 24px;
+}
+.btn-link {
+  display: block;
+  text-align: center;
+  background: #c62828;
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+  padding: 14px;
+  border-radius: 8px;
+  margin-top: 16px;
+}
+
+.btn-link:hover {
+  background: #b71c1c;
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+  <!-- TÍTULO PRINCIPAL -->
+  <div class="main-title">
+    Condomínio Terraço
+  </div>
+
+  <div class="card">
+    <h1>🚨 Atenção, morador</h1>
+    <p>
+      Está em votação uma proposta que pode
+      <strong>reduzir o valor do condomínio</strong>.
+    </p>
+
+    <div class="highlight">
+      💰 Dependendo da planta, a redução pode chegar a
+      <strong>R$ 166 por mês</strong>.
+    </div>
+  </div>
+
+  <div class="card">
+    <h2>📊 O que está sendo votado?</h2>
+    <p>
+      Uma nova forma de rateio do condomínio, levando em conta
+      o tamanho e a planta de cada apartamento.
+    </p>
+    <p>
+      O síndico disponibilizou uma planilha com a simulação completa
+      por unidade.
+    </p>
+  </div>
+
+  <div class="card">
+    <h2>📉 Exemplos de impacto mensal</h2>
+    <p><strong>• Apartamento 41m²:</strong> redução aproximada de R$ 50</p>
+    <p><strong>• Apartamento 31m²:</strong> redução aproximada de R$ 166</p>
+    <p>
+      📈 Para apartamentos maiores, pode haver aumento.
+      Por isso, é importante verificar sua unidade antes de votar.
+    </p>
+  </div>
+
+  <div class="card">
+    <h2>✅ Como votar (passo a passo)</h2>
+
+<p class="step">1️⃣ Acesse o aplicativo CONDPRO ou o SITE, clique no ícone na lateral esquerda</p>
+<a href="https://ibb.co/C4yLML1"><img src="https://i.ibb.co/8GwkdkK/Passo1.jpg" alt="Passo1" border="0" /></a>
+
+<p class="step">2️⃣ Clique em "Comunicação", depois em "Assembleia Online"</p>
+<a href="https://ibb.co/CKmhxtst"><img src="https://i.ibb.co/r2F4ntft/Passo2.jpg" alt="Passo2" border="0" /></a>
+
+<p class="step">3️⃣ Localize a assembleia em aberto de 01/12/2025 e clique em "ACESSAR"</p>
+<a href="https://ibb.co/4R6bYgfN"><img src="https://i.ibb.co/ZznQY1JT/Passo3.jpg" alt="Passo3" border="0" /></a>
+
+<p class="step">4️⃣ Em "Pauta Única" clique em "Votação"</p>
+<a href="https://ibb.co/5Wr1FwmH"><img src="https://i.ibb.co/GvWdTNyS/Passo4.jpg" alt="Passo4" border="0" /></a>
+
+<p class="step">5️⃣ Para aprovar a cobrança por fração, o voto precisa ser registrado conforme abaixo:</p>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/pBdYZdLS/passo5.jpg" alt="passo5" border="0" /></a>
+
+    <div class="highlight">
+      ⚠️ O voto é rápido e impacta diretamente
+      o valor que você paga todo mês.
+    </div>
+  </div>
+
+<div class="card">
+  <h2>📄 Planilha detalhada do rateio</h2>
+
+  <p>
+    Clique abaixo para conferir a planilha detalhada elaborada pelo síndico,
+    onde mostra a redução do valor do condomínio para cada unidade.
+  </p>
+
+  <!-- TROQUE O LINK PELO LINK REAL DA PLANILHA -->
+  <a class="btn-link" href="https://SEU_LINK_AQUI" target="_blank">
+    👉 Acessar planilha detalhada
+  </a>
+
+  <div class="footer">
+    Em caso de dúvida, consulte o grupo do condomínio.
+  </div>
+</div>
+
+
+</div>
+
+</body>
+</html>
